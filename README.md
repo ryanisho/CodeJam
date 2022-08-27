@@ -1,5 +1,5 @@
 # 2020 GoogleCodeJam Answers (Qualifying Round)
 
-Simple overview of use/purpose.
+By Ryan Ho 
 
 ## Answers to GoogleCodeJam's qualifying round 1A.
